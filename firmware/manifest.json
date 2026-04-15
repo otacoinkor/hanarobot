@@ -1,1 +1,7 @@
-
+{
+  "project": "ELRSReceiver",
+  "version": "1.0.0",
+  "build": 100,
+  "bin_url": "RELEASE_ASSET_URL_HERE",
+  "sha256": "SHA256_HEX_HERE"
+}
